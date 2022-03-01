@@ -1,0 +1,36 @@
+{
+    "bankUser": [
+        {
+            "sex": "m",
+            "password": "pword",
+            "first_name": "John",
+            "last_name": "Travolta",
+            "email": "jt@otmail.com",
+            "account_balance": 5687.00,
+            "account_number": "246810",
+            "id": "1357911",
+            "user_name": "johnStillTravol"
+        },
+        {
+            "sex": "f",
+            "password": "password",
+            "first_name": "samantha",
+            "last_name": "Travolita",
+            "email": "ssa@hotmail.com",
+            "account_balance": 687.00,
+            "account_number": "12345",
+            "id": "678910",
+            "user_name": "samTheStallion"
+        },{
+            "sex": "m",
+            "password": "zorro",
+            "first_name": "clinton",
+            "last_name": "smith",
+            "email": "csmith@ymail.com",
+            "account_balance": 800.00,
+            "account_number": "1112131415",
+            "id": "1617181920",
+            "user_name": "csJones"
+        }
+    ]
+}
